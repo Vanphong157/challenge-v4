@@ -51,3 +51,24 @@ For backend
 - "localhost/" for Admin login
 - "localhost/login" for User login
 - "localhost/dashboard" to handle and display the relevant data
+
+### Screenshot of application
+### Screenshot of login:
+##### Admin
+![image](https://github.com/user-attachments/assets/2814e36b-a011-4935-a6d8-7a5331498762) ![image](https://github.com/user-attachments/assets/b317f456-ebe5-47c8-92a0-34262bc7bd7f)
+
+##### Employee
+![image](https://github.com/user-attachments/assets/3f6781c6-2e3c-4e31-a507-949b9a54f793) ![image](https://github.com/user-attachments/assets/5fe41b55-de98-4d13-8813-1e12283e6284)
+
+### Screenshot of Dashboard
+![image](https://github.com/user-attachments/assets/68097cde-b46e-4fe8-8380-a9cdcc3f14f3)
+![image](https://github.com/user-attachments/assets/230de131-f3b6-485b-b569-84cb877296db)
+
+### Screenshot of chat
+![image](https://github.com/user-attachments/assets/ea41111d-d154-4f57-8bcd-547234738317)
+![image](https://github.com/user-attachments/assets/b7cfb94e-3141-4d58-a51c-df01af1ec3ed)
+
+
+
+
+
